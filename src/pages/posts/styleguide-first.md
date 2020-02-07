@@ -10,4 +10,4 @@ excerpt: ''
 ---
 The future is beautiful. Design systems are everywhere. Design tools export React components that your application can just consume. CSS in JS means your styles are always scoped to their parent component and figuring out where the styles are for any given element is easy because co-location comes free.
 
-Back in the real world, brownfield systems abound.
+Back in the real world, brownfield systems abound. CSS is everywhere. In your master page, in individual views, in a vaguely organised folder system that gets concatenated at build. No one has curated this code and working with it can be a royal pain.
