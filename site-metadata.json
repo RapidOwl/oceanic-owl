@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Ampersand Theme",
+  "title": "samstrong.dev",
   "layout_style": "grid",
   "palette": "black",
   "header": {
-    "title": "Ampersand",
+    "title": "samstrong.dev",
     "logo_img": "images/logo.png",
     "has_nav": true
   },
